@@ -1,5 +1,9 @@
 # 📘 Projet : AegisAI-Directive
 
+<div align="center">
+  <img src="assets/logos/Aegis%20Fondation%20Logo%20avec%20le%20nom.png" alt="Aegis Foundation Logo" height="120">
+</div>
+
 ## 🌍 Description du projet
 
 AegisAI-Directive est une initiative ouverte et collaborative portée par **Aegis Foundation**, visant à établir des **directives éthiques, légales et techniques** pour le développement, l'utilisation et la régulation de l'intelligence artificielle (IA). Le projet repose sur la transparence, la collaboration et la responsabilité collective afin de créer un cadre de référence reconnu par les communautés scientifiques, industrielles et citoyennes.
@@ -37,6 +41,7 @@ AegisAI-Directive/
 ├─ CONTRIBUTING.md     # Comment contribuer
 ├─ GOVERNANCE.md       # Modèle de gouvernance
 ├─ CODE_OF_CONDUCT.md  # Règles de respect et collaboration
+├─ assets/             # Logos, images et ressources visuelles
 ├─ docs/               # Documentation complète
 ├─ directives/         # Propositions et textes officiels
 └─ discussions/        # Débats et propositions communautaires
