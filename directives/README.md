@@ -1,10 +1,10 @@
-# 📜 Directives AegisAI - Cadre éthique et technique pour l'IA
+# 📜 Directives GlobalAI-Directive - Cadre éthique et technique pour l'IA
 
-Cette section contient les **directives officielles** développées par la communauté AegisAI-Directive. Ces documents constituent le cœur du projet et définissent les standards éthiques, légaux et techniques pour le développement et l'utilisation de l'intelligence artificielle.
+Cette section contient les **directives officielles** développées par la communauté GlobalAI-Directive. Ces documents constituent le cœur du projet et définissent les standards éthiques, légaux et techniques pour le développement et l'utilisation de l'intelligence artificielle.
 
 ## 🎯 Objectif des directives
 
-Les directives AegisAI visent à :
+Les directives GlobalAI-Directive visent à :
 - **Guider** les développeurs et organisations dans leurs choix techniques
 - **Protéger** les droits fondamentaux des citoyens
 - **Promouvoir** une IA transparente, équitable et responsable
@@ -15,10 +15,10 @@ Les directives AegisAI visent à :
 ### 🔴 Directives fondamentales (v1.0)
 Standards essentiels applicables à tous les systèmes IA :
 - **[D001 - Transparence et explicabilité](core/D001-transparency-explainability.md)** ✅ *Disponible*
-- **[D002 - Protection des données personnelles](core/D002-privacy.md)** 🔄 *En développement*
-- **[D003 - Non-discrimination et équité](core/D003-fairness.md)** 📋 *Planifiée*
-- **[D004 - Sécurité et robustesse](core/D004-security.md)** 📋 *Planifiée*
-- **[D005 - Responsabilité et gouvernance](core/D005-accountability.md)** 📋 *Planifiée*
+- **[D002 - Protection des données personnelles](core/D002-data-protection.md)** ✅ *Disponible*
+- **[D003 - Non-discrimination et équité](core/D003-non-discrimination-fairness.md)** ✅ *Disponible*
+- **[D004 - Sécurité et robustesse](core/D004-security-robustness.md)** ✅ *Disponible*
+- **[D005 - Responsabilité et gouvernance](core/D005-responsibility-governance.md)** ✅ *Disponible*
 
 ### 🟡 Directives sectorielles (v0.9)
 Standards spécifiques par domaine d'application :

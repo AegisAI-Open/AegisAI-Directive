@@ -13,10 +13,10 @@ Ces directives établissent les **standards minimaux** que tout système IA doit
 ```
 Directives Fondamentales (5)
 ├── D001 - Transparence et explicabilité     ✅ Disponible
-├── D002 - Protection des données           🔄 En développement  
-├── D003 - Non-discrimination et équité     📋 Planifiée
-├── D004 - Sécurité et robustesse          📋 Planifiée
-└── D005 - Responsabilité et gouvernance    📋 Planifiée
+├── D002 - Protection des données           ✅ Disponible  
+├── D003 - Non-discrimination et équité     ✅ Disponible
+├── D004 - Sécurité et robustesse          ✅ Disponible
+└── D005 - Responsabilité et gouvernance    ✅ Disponible
 ```
 
 ## 📚 Directives disponibles
@@ -38,67 +38,71 @@ Directives Fondamentales (5)
 
 ---
 
-### 🔄 D002 - Protection des données personnelles
-**[📋 En cours de développement]**
+### ✅ D002 - Protection des données personnelles
+**[📖 Lire la directive complète](D002-data-protection.md)**
 
-**Objectif** : Définir les standards de protection, minimisation et gouvernance des données personnelles utilisées par les systèmes IA.
+**Résumé** : Établit les exigences strictes de protection des données personnelles pour tous les systèmes IA, garantissant la conformité RGPD et les meilleures pratiques de gouvernance des données.
 
-**Points clés prévus** :
-- Principes de minimisation des données
-- Consentement éclairé et granulaire
-- Sécurisation des données d'entraînement
-- Droit à l'oubli et portabilité
-- Audit des flux de données
+**Points clés** :
+- Privacy by Design et Privacy by Default obligatoires
+- Consentement libre, spécifique, éclairé et univoque
+- Minimisation et pseudonymisation des données
+- Exercice effectif des droits des personnes concernées
+- Techniques de privacy-preserving machine learning
 
-**Date de livraison prévue** : Février 2025
-
----
-
-### 📋 D003 - Non-discrimination et équité
-**[🗓️ Planifiée]**
-
-**Objectif** : Prévenir les biais algorithmiques et garantir l'équité des systèmes IA envers tous les groupes de population.
-
-**Points clés prévus** :
-- Détection et mesure des biais
-- Tests d'équité standardisés
-- Correction des biais identifiés
-- Représentativité des données d'entraînement
-- Monitoring continu des performances
-
-**Date de livraison prévue** : Mars 2025
+**Secteurs prioritaires** : Tous secteurs traitant données personnelles
+**Impact** : Fondamental - Conformité légale obligatoire
 
 ---
 
-### 📋 D004 - Sécurité et robustesse
-**[🗓️ Planifiée]**
+### ✅ D003 - Non-discrimination et équité
+**[📖 Lire la directive complète](D003-non-discrimination-fairness.md)**
 
-**Objectif** : Assurer la sécurité, la fiabilité et la résistance des systèmes IA face aux attaques et défaillances.
+**Résumé** : Définit les exigences fondamentales d'équité et de non-discrimination pour éliminer les biais algorithmiques et garantir l'égalité de traitement.
 
-**Points clés prévus** :
-- Tests de robustesse obligatoires
-- Protection contre les attaques adversariales
-- Gestion des cas d'erreur
-- Plans de continuité et de récupération
-- Monitoring de la dérive des modèles
+**Points clés** :
+- Tests de détection des biais avant déploiement
+- Métriques d'équité détaillées par groupe démographique
+- Datasets d'entraînement représentatifs et diversifiés
+- Mécanismes de correction des biais identifiés
+- Processus de contestation et recours
 
-**Date de livraison prévue** : Avril 2025
+**Secteurs prioritaires** : RH, Finance, Justice, Santé
+**Impact** : Critique - Prévention discriminations systémiques
 
 ---
 
-### 📋 D005 - Responsabilité et gouvernance
-**[🗓️ Planifiée]**
+### ✅ D004 - Sécurité et robustesse
+**[📖 Lire la directive complète](D004-security-robustness.md)**
 
-**Objectif** : Établir les structures de gouvernance et les chaînes de responsabilité pour les systèmes IA.
+**Résumé** : Assure la sécurité, fiabilité et résistance des systèmes IA face aux menaces, attaques et défaillances.
 
-**Points clés prévus** :
-- Définition des rôles et responsabilités
-- Processus de validation et d'approbation
-- Mécanismes de contrôle et d'audit
-- Gestion des incidents et réclamations
-- Formation et sensibilisation des équipes
+**Points clés** :
+- Détection et protection contre attaques adversariales
+- Tests de robustesse obligatoires avant déploiement
+- Monitoring continu de la dérive des modèles
+- Mécanismes failsafe pour cas critiques
+- Plans de continuité et récupération après incident
 
-**Date de livraison prévue** : Mai 2025
+**Secteurs prioritaires** : Santé, Finance, Transport, Sécurité
+**Impact** : Critique - Sécurité utilisateurs et continuité service
+
+---
+
+### ✅ D005 - Responsabilité et gouvernance
+**[📖 Lire la directive complète](D005-responsibility-governance.md)**
+
+**Résumé** : Établit les structures organisationnelles, rôles et processus nécessaires pour une gouvernance éthique et responsable de l'IA.
+
+**Points clés** :
+- Désignation responsable IA avec autorité décisionnelle
+- Comité de gouvernance IA multidisciplinaire
+- Processus formels validation et approbation
+- Registre complet des systèmes IA déployés
+- Mécanismes supervision humaine et gestion incidents
+
+**Secteurs prioritaires** : Toutes organisations utilisant l'IA
+**Impact** : Fondamental - Structure organisationnelle responsable
 
 ## 🎯 Statuts des directives
 
