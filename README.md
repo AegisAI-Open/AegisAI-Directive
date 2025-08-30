@@ -1,4 +1,4 @@
-# 📘 AegisAI-Directive
+# 📘 GlobalAI-Directive
 
 <div align="center">
   <img src="assets/logos/Aegis%20Fondation%20Logo%20avec%20le%20nom.png" alt="Aegis Foundation Logo" height="120">
@@ -17,7 +17,7 @@
 
 ## 🌍 À propos du projet
 
-**AegisAI-Directive** est une initiative **open source** portée par **Global AI Trust Foundation** qui vise à établir des **standards éthiques, légaux et techniques** pour l'intelligence artificielle. Notre mission : créer un cadre de référence **transparent, collaboratif et démocratique** reconnu par les communautés scientifiques, industrielles et citoyennes.
+**GlobalAI-Directive** est une initiative **open source** portée par **Global AI Trust Foundation** qui vise à établir des **standards éthiques, légaux et techniques** pour l'intelligence artificielle. Notre mission : créer un cadre de référence **transparent, collaboratif et démocratique** reconnu par les communautés scientifiques, industrielles et citoyennes.
 
 ### 🎯 Notre vision
 Devenir la **référence mondiale** pour des directives IA ouvertes, garantissant une intelligence artificielle **sûre, équitable et respectueuse des droits humains**.
@@ -233,7 +233,7 @@ Cela garantit la liberté d'utilisation, de modification et de diffusion, à con
 <div align="center">
   <h3>🛡️ Ensemble, construisons une IA au service de l'humanité</h3>
   
-  **AegisAI-Directive** • Porté par [Global AI Trust Foundation](https://globalaitrust.org)  
+  **GlobalAI-Directive** • Porté par [Global AI Trust Foundation](https://globalaitrust.org)  
   
   [![Twitter Follow](https://img.shields.io/twitter/follow/GlobalAITrust?style=social)](https://twitter.com/GlobalAITrust) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-GlobalAITrust-blue?style=social&logo=linkedin)](https://linkedin.com/company/global-ai-trust-foundation)
