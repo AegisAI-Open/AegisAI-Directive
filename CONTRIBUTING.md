@@ -3,9 +3,9 @@
 Merci de votre intérêt pour le projet **AegisAI-Directive** ! Ce guide vous explique comment contribuer efficacement à cette initiative collaborative pour développer des directives éthiques, légales et techniques pour l'intelligence artificielle.
 
 > **🚀 Liens rapides :**
-> - [🔗 Repository GitHub](https://github.com/AegisAI-Open/AegisAI-Directive)
-> - [💬 Discussions](https://github.com/AegisAI-Open/AegisAI-Directive/discussions)
-> - [📋 Issues](https://github.com/AegisAI-Open/AegisAI-Directive/issues)
+> - [🔗 Repository GitHub](https://github.com/global-ai-trust-fondation/GlobalAI-Directive)
+> - [💬 Discussions](https://github.com/global-ai-trust-fondation/GlobalAI-Directive/discussions)
+> - [📋 Issues](https://github.com/global-ai-trust-fondation/GlobalAI-Directive/issues)
 > - [📖 Documentation](docs/README.md)
 
 ## 🎯 Types de contributions
@@ -29,8 +29,8 @@ Nous accueillons toutes les formes de contributions :
 
 2. **Explorez** les contenus existants :
    - [Directives actuelles](directives/README.md)
-   - [Discussions en cours](https://github.com/AegisAI-Open/AegisAI-Directive/discussions)
-   - [Issues ouvertes](https://github.com/AegisAI-Open/AegisAI-Directive/issues)
+   - [Discussions en cours](https://github.com/global-ai-trust-fondation/GlobalAI-Directive/discussions)
+   - [Issues ouvertes](https://github.com/global-ai-trust-fondation/GlobalAI-Directive/issues)
 
 ### 1. Issues et discussions
 
@@ -55,8 +55,8 @@ Nous accueillons toutes les formes de contributions :
 1. **Fork** le repository sur GitHub
 2. **Cloner** votre fork localement :
    ```bash
-   git clone https://github.com/VOTRE-USERNAME/AegisAI-Directive.git
-   cd AegisAI-Directive
+   git clone https://github.com/VOTRE-USERNAME/GlobalAI-Directive.git
+   cd GlobalAI-Directive
    ```
 
 3. **Créer une branche** pour votre contribution :
@@ -206,9 +206,9 @@ Nous accueillons toutes les formes de contributions :
 
 ### 💬 Canaux de communication
 
-- **Questions générales** : [Ouvrir une discussion GitHub](https://github.com/AegisAI-Open/AegisAI-Directive/discussions)
-- **Problèmes techniques** : [Créer une issue](https://github.com/AegisAI-Open/AegisAI-Directive/issues)
-- **Propositions de directives** : [Discussion dans la catégorie appropriée](https://github.com/AegisAI-Open/AegisAI-Directive/discussions)
+- **Questions générales** : [Ouvrir une discussion GitHub](https://github.com/global-ai-trust-fondation/GlobalAI-Directive/discussions)
+- **Problèmes techniques** : [Créer une issue](https://github.com/global-ai-trust-fondation/GlobalAI-Directive/issues)
+- **Propositions de directives** : [Discussion dans la catégorie appropriée](https://github.com/global-ai-trust-fondation/GlobalAI-Directive/discussions)
 
 ### 📧 Contacts directs
 
@@ -269,8 +269,8 @@ Nous valorisons toutes les contributions, petites ou grandes :
 
 ## 🚀 Prêt à contribuer ?
 
-1. **🔍 Explorez** les [issues ouvertes](https://github.com/AegisAI-Open/AegisAI-Directive/issues) étiquetées `bonne-première-contribution`
-2. **💬 Rejoignez** les [discussions actives](https://github.com/AegisAI-Open/AegisAI-Directive/discussions)
+1. **🔍 Explorez** les [issues ouvertes](https://github.com/global-ai-trust-fondation/GlobalAI-Directive/issues) étiquetées `bonne-première-contribution`
+2. **💬 Rejoignez** les [discussions actives](https://github.com/global-ai-trust-fondation/GlobalAI-Directive/discussions)
 3. **📖 Consultez** le [template de directives](directives/TEMPLATE.md) pour proposer du contenu
 4. **🤝 Connectez-vous** avec la communauté
 

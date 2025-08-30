@@ -5,12 +5,12 @@
   
   <h3>🛡️ Directives éthiques et techniques pour une IA responsable</h3>
   
-  ![GitHub Stars](https://img.shields.io/github/stars/AegisAI-Open/AegisAI-Directive?style=social)
-  ![GitHub Forks](https://img.shields.io/github/forks/AegisAI-Open/AegisAI-Directive?style=social)
+  ![GitHub Stars](https://img.shields.io/github/stars/global-ai-trust-fondation/GlobalAI-Directive?style=social)
+  ![GitHub Forks](https://img.shields.io/github/forks/global-ai-trust-fondation/GlobalAI-Directive?style=social)
   ![License](https://img.shields.io/badge/license-MIT%20%2B%20CC--BY%204.0-blue)
-  ![Contributors](https://img.shields.io/github/contributors/AegisAI-Open/AegisAI-Directive)
+  ![Contributors](https://img.shields.io/github/contributors/global-ai-trust-fondation/GlobalAI-Directive)
   
-  **[📖 Lire les directives](directives/README.md)** • **[💬 Rejoindre les discussions](https://github.com/AegisAI-Open/AegisAI-Directive/discussions)** • **[🤝 Contribuer](CONTRIBUTING.md)**
+  **[📖 Lire les directives](directives/README.md)** • **[💬 Rejoindre les discussions](https://github.com/global-ai-trust-fondation/GlobalAI-Directive/discussions)** • **[🤝 Contribuer](CONTRIBUTING.md)**
 </div>
 
 ---
@@ -37,8 +37,8 @@ Devenir la **référence mondiale** pour des directives IA ouvertes, garantissan
 
 ```bash
 # 1. Cloner le repository
-git clone https://github.com/AegisAI-Open/AegisAI-Directive.git
-cd AegisAI-Directive
+git clone https://github.com/global-ai-trust-fondation/GlobalAI-Directive.git
+cd GlobalAI-Directive
 
 # 2. Lire la documentation
 open docs/README.md
@@ -47,7 +47,7 @@ open docs/README.md
 open directives/README.md
 
 # 4. Rejoindre une discussion
-open https://github.com/AegisAI-Open/AegisAI-Directive/discussions
+open https://github.com/global-ai-trust-fondation/GlobalAI-Directive/discussions
 ```
 
 ### 📋 Premiers pas recommandés
@@ -57,7 +57,7 @@ open https://github.com/AegisAI-Open/AegisAI-Directive/discussions
 | 🔬 **Chercheur** | Consulter les directives techniques | [directives/technical/](directives/) |
 | 💼 **Entreprise** | Découvrir les guides d'implémentation | [docs/implementation/](docs/) |
 | ⚖️ **Juriste** | Analyser les aspects légaux | [directives/legal/](directives/) |
-| 🎓 **Étudiant** | Participer aux discussions ouvertes | [Discussions](https://github.com/AegisAI-Open/AegisAI-Directive/discussions) |
+| 🎓 **Étudiant** | Participer aux discussions ouvertes | [Discussions](https://github.com/global-ai-trust-fondation/GlobalAI-Directive/discussions) |
 | 🌍 **Citoyen** | Comprendre les enjeux éthiques | [docs/ethics/](docs/) |
 
 ## 🎯 Objectifs stratégiques
@@ -136,14 +136,14 @@ AegisAI-Directive/
 
 | Rôle | Responsabilités | Comment rejoindre |
 |------|----------------|-------------------|
-| 🌍 **Communauté** | Discussions, retours, promotion | [Rejoindre les discussions](https://github.com/AegisAI-Open/AegisAI-Directive/discussions) |
+| 🌍 **Communauté** | Discussions, retours, promotion | [Rejoindre les discussions](https://github.com/global-ai-trust-fondation/GlobalAI-Directive/discussions) |
 | 🤝 **Contributeur** | Propositions, améliorations, révisions | [Faire sa première contribution](CONTRIBUTING.md) |
 | 🔧 **Mainteneur** | Validation, guidance, animation | Élu par les contributeurs actifs |
 | 🏛️ **Comité** | Direction stratégique, arbitrage | Candidature + vote communautaire |
 
 ### 📊 Statistiques communautaires
 
-![Contributors](https://img.shields.io/github/contributors/AegisAI-Open/AegisAI-Directive) ![Discussions](https://img.shields.io/github/discussions/AegisAI-Open/AegisAI-Directive) ![Issues](https://img.shields.io/github/issues/AegisAI-Open/AegisAI-Directive)
+![Contributors](https://img.shields.io/github/contributors/global-ai-trust-fondation/GlobalAI-Directive) ![Discussions](https://img.shields.io/github/discussions/global-ai-trust-fondation/GlobalAI-Directive) ![Issues](https://img.shields.io/github/issues/global-ai-trust-fondation/GlobalAI-Directive)
 
 **Processus de décision** : Consensus → Discussion → Vote si nécessaire → [Documentation complète](GOVERNANCE.md)
 
@@ -167,7 +167,7 @@ AegisAI-Directive/
 
 🏥 **Santé** • 🎓 **Éducation** • 💰 **Finance** • 🚗 **Transport** • ⚖️ **Justice** • 🌱 **Environnement**
 
-*Plus de secteurs en développement - [Proposer un nouveau secteur](https://github.com/AegisAI-Open/AegisAI-Directive/discussions/categories/new-sector)*
+*Plus de secteurs en développement - [Proposer un nouveau secteur](https://github.com/global-ai-trust-fondation/GlobalAI-Directive/discussions/categories/new-sector)*
 
 ---
 
@@ -190,7 +190,7 @@ Cela garantit la liberté d'utilisation, de modification et de diffusion, à con
       <td align="center" width="25%">
         <h4>💬 Discuter</h4>
         <p>Partager vos idées et expertise</p>
-        <a href="https://github.com/AegisAI-Open/AegisAI-Directive/discussions">Discussions</a>
+        <a href="https://github.com/global-ai-trust-fondation/GlobalAI-Directive/discussions">Discussions</a>
       </td>
       <td align="center" width="25%">
         <h4>📝 Rédiger</h4>
@@ -200,7 +200,7 @@ Cela garantit la liberté d'utilisation, de modification et de diffusion, à con
       <td align="center" width="25%">
         <h4>🔍 Réviser</h4>
         <p>Améliorer le contenu existant</p>
-        <a href="https://github.com/AegisAI-Open/AegisAI-Directive/pulls">Pull Requests</a>
+        <a href="https://github.com/global-ai-trust-fondation/GlobalAI-Directive/pulls">Pull Requests</a>
       </td>
       <td align="center" width="25%">
         <h4>🌍 Traduire</h4>
