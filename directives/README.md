@@ -14,11 +14,11 @@ Les directives AegisAI visent à :
 
 ### 🔴 Directives fondamentales (v1.0)
 Standards essentiels applicables à tous les systèmes IA :
-- **[D001 - Transparence et explicabilité](core/D001-transparency.md)**
-- **[D002 - Protection des données personnelles](core/D002-privacy.md)**
-- **[D003 - Non-discrimination et équité](core/D003-fairness.md)**
-- **[D004 - Sécurité et robustesse](core/D004-security.md)**
-- **[D005 - Responsabilité et gouvernance](core/D005-accountability.md)**
+- **[D001 - Transparence et explicabilité](core/D001-transparency-explainability.md)** ✅ *Disponible*
+- **[D002 - Protection des données personnelles](core/D002-privacy.md)** 🔄 *En développement*
+- **[D003 - Non-discrimination et équité](core/D003-fairness.md)** 📋 *Planifiée*
+- **[D004 - Sécurité et robustesse](core/D004-security.md)** 📋 *Planifiée*
+- **[D005 - Responsabilité et gouvernance](core/D005-accountability.md)** 📋 *Planifiée*
 
 ### 🟡 Directives sectorielles (v0.9)
 Standards spécifiques par domaine d'application :
