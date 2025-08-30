@@ -64,7 +64,7 @@ La documentation est un élément vivant du projet. Vous pouvez :
 - [💬 Discussions communautaires](../discussions/)
 
 ### Ressources externes
-- [Site web Aegis Foundation](https://aegis-foundation.org)
+- [Site web Global AI Trust Foundation](https://globalaitrust.org)
 - [Blog du projet](https://blog.aegisai-directive.org)
 - [Newsletter](https://newsletter.aegisai-directive.org)
 

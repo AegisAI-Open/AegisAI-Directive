@@ -143,7 +143,7 @@ Schémas et diagrammes techniques
 ## 📄 Licences et crédits
 
 ### Propriété intellectuelle
-- **Logos AegisAI** : © 2025 Aegis Foundation - Usage autorisé pour le projet
+- **Logos AegisAI** : © 2025 Global AI Trust Foundation - Usage autorisé pour le projet
 - **Icônes tiers** : Voir crédits individuels dans chaque dossier
 - **Images libres** : Domaine public ou Creative Commons mentionné
 
